@@ -1,3 +1,13 @@
 Hello world
 I'm first repository
-AWDIWHIDAW
+
+
+Change 1
+printf("xxhwidhi");
+
+Zailaiyige push yi via xx
+
+Youjiayige
+Wdnwk 
+
+W kwdaw 
